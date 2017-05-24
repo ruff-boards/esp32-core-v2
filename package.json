@@ -1,6 +1,6 @@
 {
     "name": "esp32-core-v2",
-    "version": "0.1.2",
+    "version": "0.2.0",
     "description": "Espressif ESP32 Core Board V2 powered by Ruff",
     "author": "Nanchao Inc.",
     "dependencies": {
@@ -8,7 +8,7 @@
     },
     "ruff": {
         "dependencies": {
-            "esp32-wifi": "0.2.0"
+            "esp32-wifi": "^0.3.0"
         },
         "devDependencies": {}
     }
